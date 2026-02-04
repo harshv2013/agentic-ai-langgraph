@@ -484,7 +484,7 @@ You have all the tools you need in the repository. Start with `simple_agent.py`,
 
 ## Resources
 
-- **GitHub Repository:** [Link to your repo]
+- **GitHub Repository:** https://github.com/harshv2013/agentic-ai-langgraph
 - **LangGraph Docs:** https://langchain-ai.github.io/langgraph/
 - **Azure OpenAI:** https://azure.microsoft.com/products/ai-services/openai-service
 - **LangChain Community:** https://www.langchain.com/
@@ -503,23 +503,8 @@ The examples in this project are just the beginning. With these foundations, you
 
 The future of AI is agentic. And now, you know how to build it.
 
-**Ready to start?** Clone the repository and run your first agent today!
-
----
-
-*If you found this helpful, please give the GitHub repo a ⭐ and share it with others learning about agentic AI!*
-
-*Questions or feedback? Drop a comment below or open an issue on GitHub.*
-
----
-
-## About the Author
-
-[Your bio here - keep it brief and relevant to AI/development]
-
 **Connect with me:**
-- GitHub: [your-handle]
-- Twitter/X: [your-handle]  
-- LinkedIn: [your-profile]
+- GitHub: https://github.com/harshv2013/
+- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-60b6aa106/
 
 Happy building! 🚀
